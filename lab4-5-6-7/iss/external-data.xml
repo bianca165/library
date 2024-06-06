@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <object-set>
+    <table path="main.exemplare">
+      <table path="main.exemplare" name="carte" from="" to=""/>
+    </table>
+  </object-set>
+</data>

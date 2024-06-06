@@ -1,0 +1,153 @@
+.login-page .rectangle-8 {
+    border-radius: 50px;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color: #FB635D;
+    margin: 0 32.2px 47px 0;
+    width: 447px;
+    height: 66px;
+}
+.login-page .username {
+    margin-bottom: 21px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter', serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.dont-have-and-account-register {
+    font-family: 'Inter', serif;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.333;
+}
+.dont-have-and-account-register-sub5 {
+    font-family: 'Inter', serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.333;
+}
+.login-page .dont-have-and-account-register {
+    margin-bottom: 117px;
+    overflow-wrap: break-word;
+    font-family: 'Inter', serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.login-page .welcome-back {
+    margin: 0 32.7px 85px 0;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter', serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #1A1A1A;
+}
+.login-page .password {
+    margin-bottom: 33px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter', serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.login-page .rectangle-5 {
+    border-radius: 105.5px;
+    background: #FB635D;
+    transform: rotate(-41.105deg);
+    margin: 986px 244.4px 158.1px 0;
+    width: 542.6px;
+    height: 498.9px;
+}
+.login-page .frame-7 {
+    position: absolute;
+    left: -191.5px;
+    bottom: 139.1px;
+    display: flex;
+    width: 503.5px;
+    height: 462.9px;
+    box-sizing: border-box;
+}
+.login-page .rectangle-6 {
+    border-radius: 105.5px;
+    transform: rotate(-41.105deg);
+    width: 503.5px;
+    height: 462.9px;
+}
+
+.login-page .login {
+    overflow-wrap: break-word;
+    font-family: 'Inter', serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.login-page {
+    background: #FFFFFF;
+    width: 2542px;
+    box-sizing: border-box;
+}
+.login-page .rectangle-1 {
+    background: #C2DBFF;
+    width: 438px;
+    height: 1643px;
+}
+.login-page .rectangle-2 {
+    background: rgba(200, 221, 252, 0.53);
+    position: absolute;
+    right: 108px;
+    bottom: 0;
+    width: 438px;
+    height: 1643px;
+}
+
+.login-page .social-media-icons {
+    margin-right: 32.2px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 257px;
+    box-sizing: border-box;
+}
+.login-page .rectangle-22 {
+    border-radius: 50px;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color: #FB635D;
+    margin: 0 32.2px 22px 0;
+    width: 447px;
+    height: 66px;
+}
+.login-page .container {
+    margin: 136px 628.8px 705px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.login-page .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 2333px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+.login-page .container-2 {
+    border-radius: 50px;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color: #FB635D;
+    background: #FB635D;
+    position: relative;
+    margin: 0 32.2px 65px 0;
+    display: flex;
+    padding: 15px 2.6px 15px 0;
+    width: 447px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,71 @@
+.modal-content {
+    -fx-background-color: #FFFFFF;
+    -fx-padding: 20px 0;
+    -fx-width: 913px;
+    -fx-height: -fx-fit-content;
+    -fx-box-sizing: border-box;
+    -fx-display: flex;
+    -fx-flex-direction: column;
+    -fx-alignment: center;
+}
+.button-container {
+    -fx-background-color: #D4E5FF;
+    -fx-alignment: center;
+    -fx-display: flex;
+    -fx-padding: 20px 0;
+    -fx-flex-direction: row;
+    -fx-justify-content: space-between;
+    -fx-width: 913px;
+    -fx-max-height: 60px;
+    -fx-min-height: 60px;
+    -fx-box-sizing: border-box;
+}
+
+.covers {
+    -fx-border-radius: 5px;
+    -fx-background-color: #F8FAFD;
+    -fx-padding: 10px;
+}
+
+.buttons {
+    -fx-background-radius: 50px;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color: transparent;
+    -fx-background-color: #75b1fa;
+    -fx-margin: 0 10px;
+    -fx-display: flex;
+    -fx-padding: 0 20px;
+    -fx-box-sizing: border-box;
+    -fx-text-fill: white;
+    -fx-max-height: 40px;
+    -fx-min-height: 40px;
+    -fx-font-family: 'Montserrat', sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.description-area {
+    -fx-font-size: 14px;
+    -fx-max-width: 600px;
+    -fx-padding: 20px;
+    -fx-border-color: transparent;
+    -fx-font-family: 'Montserrat', sans-serif;
+    -fx-text-fill: #6b6767;
+}
+
+.label {
+    -fx-position: relative;
+    -fx-display: flex;
+    -fx-flex-direction: row;
+    -fx-justify-content: space-between;
+    -fx-width: 342px;
+    -fx-height: fit-content;
+    -fx-box-sizing: border-box;
+    -fx-font-family: 'Montserrat', sans-serif;
+    -fx-text-fill: #464545;
+    -fx-font-size: 16px;
+
+}
+
+
